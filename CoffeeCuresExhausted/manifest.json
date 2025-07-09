@@ -1,0 +1,10 @@
+{
+  "Name": "Coffee Cures Exhausted",
+  "Author": "Jed",
+  "Version": "%ProjectVersion%",
+  "Description": "This is a small QOL mod that changes the functionality of the game to make Coffee, Triple Shot Espresso, Green Tea, and Joja Cola cure the exhausted effect from over exertion",
+  "UniqueID": "Jed.CoffeeCuresExhausted",
+  "EntryDll": "CoffeeCuresExhausted.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
